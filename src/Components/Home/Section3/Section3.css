@@ -1,0 +1,132 @@
+a{
+    text-decoration: none;
+}
+.card {
+    border: 1.08px solid rgba(238, 231, 231, 0.8);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 1.08px 8.63px 0px rgba(0, 0, 0, 0.06);
+}
+
+.head2 {
+    font-family: Inter, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 24.2px;
+    text-align: left;
+    color: rgba(38, 50, 56, 1);
+    padding-right: 50px;
+}
+
+.distance {
+    width: 52px;
+    height: 52px;
+    border-radius: 6.47px;
+    border: 0.47px solid rgba(238, 231, 231, 1);
+    background: rgba(249, 249, 249, 1);
+    text-align: center;
+    padding: 5px;
+}
+
+.distance-p {
+    padding-top: 5px;
+    font-family: Inter, sans-serif;
+    font-size: 8px;
+    font-weight: 500;
+    line-height: 9.68px;
+    text-align: center;
+    color: rgba(38, 50, 56, 0.5);
+
+}
+
+.card-img {
+    width: 100%;
+    height: 202px;
+    border-radius: 6px;
+    background-image: url('../../../Assets/Rectangle-34624826.png');
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    margin: 10px 0px;
+    margin-bottom: 20px
+}
+
+.card-tag {
+    width: fit-content;
+    padding: 5px 8px;
+    border-radius: 5px;
+    border: 0.5px;
+    background: linear-gradient(100.27deg, #263238 22.66%, #2F4B59 67.67%);
+    border: 0.5px solid rgba(255, 187, 0, 0.5);
+    box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.08);
+    color: rgba(255, 187, 0, 1);
+    margin: 8px 0px 0px 8px;
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    letter-spacing: 2px;
+    text-align: left;
+
+}
+
+.btn-grey {
+    width: 50%;
+    border-radius: 6px;
+    border: 0.5px solid rgba(238, 231, 231, 1);
+    background: rgba(249, 249, 249, 1);
+    padding: 8px 10px;
+    margin-right: 5px;
+}
+
+.pass {
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    color: rgba(101, 98, 76, 1);
+}
+
+.price {
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.2px;
+    text-align: left;
+    color: rgba(38, 50, 56, 1);
+    padding-top: 10px;
+}
+
+.price span {
+    font-family: Inter, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.52px;
+    text-align: left;
+    color: rgba(38, 50, 56, 0.8);
+}
+
+.btn-orange {
+    width: 50%;
+    border-radius: 6px;
+    background: rgba(255, 207, 75, 1);
+    border: 1px solid rgba(255, 196, 34, 1);
+    padding: 8px 10px;
+    margin-left: 5px;
+}
+
+.btn-tag {
+    width: fit-content;
+    padding: 2px 5px;
+    border-radius: 3px;
+    background: rgba(38, 50, 56, 1);
+    border: 1px solid rgba(38, 50, 56, 1);
+    font-family: Inter, sans-serif;
+    font-size: 8px;
+    font-weight: 500;
+    line-height: 9.68px;
+    text-align: left;
+    color: rgba(255, 253, 247, 1);
+    margin-top: -15px;
+}
